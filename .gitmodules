@@ -23,14 +23,3 @@
 	url = https://github.com/davidchall/jinjar
 	shallow = true
 	registered = true
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	shallow = true
-	branch = v3.4.0-rc
-	registered = false
-[submodule "lifecycle"]
-	path = lifecycle
-	url = https://github.com/r-lib/lifecycle
-	shallow = true
-	registered = false

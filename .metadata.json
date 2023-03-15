@@ -1,18 +1,18 @@
 [
   {
-    "package": "ipaddress",
-    "oncran": true
-  },
-  {
     "package": "bignum",
     "oncran": true
   },
   {
-    "package": "jinjar",
+    "package": "ggip",
     "oncran": true
   },
   {
-    "package": "ggip",
+    "package": "ipaddress",
+    "oncran": true
+  },
+  {
+    "package": "jinjar",
     "oncran": true
   }
 ]

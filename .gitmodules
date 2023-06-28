@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bignum"]
 	path = bignum
 	url = https://github.com/davidchall/bignum
-	shallow = true
-	registered = true
 [submodule "ggip"]
 	path = ggip
 	url = https://github.com/davidchall/ggip
-	shallow = true
-	registered = true
 [submodule "ipaddress"]
 	path = ipaddress
 	url = https://github.com/davidchall/ipaddress
-	shallow = true
-	registered = true
 [submodule "jinjar"]
 	path = jinjar
 	url = https://github.com/davidchall/jinjar
-	shallow = true
-	registered = true
